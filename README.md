@@ -2,7 +2,7 @@
 <p align="center">
   <img src="docs/assets/nhs-logo.png" alt="NHS Logo" height="64">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/assets/reach-logo.svg" alt="REACH Map Logo" height="64">
+  <img src="docs/assets/reach-logo.png" alt="REACH Map Logo" height="64">
 </p>
 
 <p align="center">
