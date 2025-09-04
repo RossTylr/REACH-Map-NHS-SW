@@ -5,6 +5,9 @@
   <img src="docs/assets/reach-logo.svg" alt="REACH Map Logo" height="64" />
 </p>
 
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14-green)
+
 # REACH Map (SW): Response & Emergency Access Coverage
 
 A Streamlit tool for NHS planners to visualise emergency response coverage, test what-if scenarios, and balance demand vs. capacity across the NHS South West.
