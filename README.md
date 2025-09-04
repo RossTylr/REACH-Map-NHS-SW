@@ -1,12 +1,14 @@
 <!-- Place logo files at docs/assets/nhs-logo.png and docs/assets/reach-logo.svg -->
 <p align="center">
-  <img src="docs/assets/nhs-logo.png" alt="NHS Logo" height="64" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="docs/assets/reach-logo.svg" alt="REACH Map Logo" height="64" />
+  <img src="docs/assets/nhs-logo.png" alt="NHS Logo" height="64">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/assets/reach-logo.svg" alt="REACH Map Logo" height="64">
 </p>
 
-![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python 3.11">
+  <img src="https://img.shields.io/badge/GeoPandas-0.14-green" alt="GeoPandas 0.14">
+</p>
 
 # REACH Map (SW): Response & Emergency Access Coverage
 
