@@ -15,7 +15,6 @@ data/processed/
 
 # Large tabular files anywhere
 *.zip
-*.csv
 *.xlsx
 
 # Streamlit local state
