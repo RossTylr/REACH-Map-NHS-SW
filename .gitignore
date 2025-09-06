@@ -1,0 +1,26 @@
+# macOS cruft
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+.envrc
+.venv/
+
+# Data (dirs)
+data/raw/travel_data/
+data/processed/
+
+# Large tabular files anywhere
+*.zip
+*.csv
+*.xlsx
+
+# Streamlit local state
+.streamlit/
+
+# Keep empty dirs with placeholders
+!data/.gitkeep
+!data/raw/.gitkeep
