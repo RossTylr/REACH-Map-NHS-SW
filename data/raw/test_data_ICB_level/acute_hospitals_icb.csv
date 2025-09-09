@@ -1,0 +1,4 @@
+Code,Name,Address 1,Address 2,Address 3,Address 4,Address 5,Postcode,Type,Parent Organisation Code,Parent Organisation Name,postcode,latitude,longitude,lsoa21cd,msoa21cd,oa21cd,icb_code,local_authority
+REF02,St Michael's Teaching Hospital,St. Michaels Hospital,Trelissick Road,,Hayle,Cornwall,TR27 4JA,General acute hospital,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,TR274JA,-5.42442319,50.18035163,E01018983,E02003944,E00095891,E54000036,E06000052
+REF01,West Cornwall Hospital (Penzance),St Clare Street,,,Penzance,Cornwall,TR18 2PF,General acute hospital,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,TR182PF,-5.54297636,50.12205627,E01018995,E02003949,E00095963,E54000036,E06000052
+REF12,Royal Cornwall Hospital (Treliske),Royal Cornwall Hospital,Treliske,,Truro,Cornwall,TR1 3LJ,General acute hospital,QT6,NHS Cornwall and Isles of Scilly Integrated Care Board,TR13LJ,-5.091464043,50.26668601,E01034862,E02003909,E00182858,E54000036,E06000052
