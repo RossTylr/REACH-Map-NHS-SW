@@ -1,7 +1,4 @@
 station_code,station_name,hospital_code,hospital_name,time_min
-RYF23,Isle of Scilly Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),129.1174795805
-RYF23,Isle of Scilly Ambulance Station,REF02,St Michael's Teaching Hospital,143.98683519537502
-RYF23,Isle of Scilly Ambulance Station,REF01,West Cornwall Hospital (Penzance),155.0896786335
 RYF26,Cornwall Air Ambulance,REF12,Royal Cornwall Hospital (Treliske),38.338522685625
 RYF26,Cornwall Air Ambulance,REF02,St Michael's Teaching Hospital,54.5528783005
 RYF26,Cornwall Air Ambulance,REF01,West Cornwall Hospital (Penzance),65.645721738625

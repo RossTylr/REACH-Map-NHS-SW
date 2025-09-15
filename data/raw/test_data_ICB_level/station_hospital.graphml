@@ -73,16 +73,6 @@
       <data key="d6">26423.99970338735</data>
       <data key="d7">E01018886</data>
     </node>
-    <node id="RYF23">
-      <data key="d0">station</data>
-      <data key="d1">RYF23</data>
-      <data key="d2">Isle of Scilly Ambulance Station</data>
-      <data key="d3">49.91614675</data>
-      <data key="d4">-6.307864498</data>
-      <data key="d5">90868.00049201545</data>
-      <data key="d6">10671.998844876318</data>
-      <data key="d7">E01019077</data>
-    </node>
     <node id="RYF63">
       <data key="d0">station</data>
       <data key="d1">RYF63</data>
@@ -299,24 +289,6 @@
       <data key="d8">35.92077982558334</data>
       <data key="d9">True</data>
       <data key="d10">E01018886</data>
-      <data key="d11">E01034862</data>
-    </edge>
-    <edge source="RYF23" target="REF02">
-      <data key="d8">143.98683519537502</data>
-      <data key="d9">True</data>
-      <data key="d10">E01019077</data>
-      <data key="d11">E01018983</data>
-    </edge>
-    <edge source="RYF23" target="REF01">
-      <data key="d8">155.0896786335</data>
-      <data key="d9">True</data>
-      <data key="d10">E01019077</data>
-      <data key="d11">E01018995</data>
-    </edge>
-    <edge source="RYF23" target="REF12">
-      <data key="d8">129.1174795805</data>
-      <data key="d9">True</data>
-      <data key="d10">E01019077</data>
       <data key="d11">E01034862</data>
     </edge>
     <edge source="RYF63" target="REF02">
