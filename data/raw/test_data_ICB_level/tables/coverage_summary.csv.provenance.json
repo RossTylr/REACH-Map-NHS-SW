@@ -1,0 +1,20 @@
+{
+  "notebook": "02a_coverage",
+  "utc": "2025-09-21T19:24:06Z",
+  "base": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/data/raw/test_data_ICB_level",
+  "resp_thresholds": [
+    7,
+    15,
+    18,
+    40
+  ],
+  "conv_thresholds": [
+    30,
+    45,
+    60
+  ],
+  "sources": [
+    "population_by_lsoa.parquet",
+    "baseline_min_times.npz"
+  ]
+}

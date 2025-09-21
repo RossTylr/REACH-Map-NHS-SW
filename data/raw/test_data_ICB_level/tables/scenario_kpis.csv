@@ -1,8 +1,0 @@
-scenario,leg,threshold_min,pct_population
-baseline,conveyance,30,51.77
-baseline,conveyance,45,69.35
-baseline,conveyance,60,79.03
-baseline,response,7,30.77
-baseline,response,15,62.33
-baseline,response,18,75.15
-baseline,response,40,99.26

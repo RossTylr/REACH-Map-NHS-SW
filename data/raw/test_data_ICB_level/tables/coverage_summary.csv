@@ -1,0 +1,8 @@
+dimension,group,metric,covered_pop,total_pop,covered_pct
+overall,ALL,resp_T7,175444,570604,30.75
+overall,ALL,resp_T15,355398,570604,62.28
+overall,ALL,resp_T18,428607,570604,75.11
+overall,ALL,resp_T40,566385,570604,99.26
+overall,ALL,conv_T30,295247,570604,51.74
+overall,ALL,conv_T45,395515,570604,69.32
+overall,ALL,conv_T60,450857,570604,79.01

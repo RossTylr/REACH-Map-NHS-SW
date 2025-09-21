@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="hospital_lsoa" attr.type="string" />
+  <key id="d5" for="edge" attr.name="station_lsoa" attr.type="string" />
+  <key id="d4" for="edge" attr.name="has_official" attr.type="boolean" />
+  <key id="d3" for="edge" attr.name="time_min" attr.type="double" />
+  <key id="d2" for="node" attr.name="name" attr.type="string" />
+  <key id="d1" for="node" attr.name="kind" attr.type="string" />
+  <key id="d0" for="node" attr.name="bipartite" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="RYF62">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Bodmin Ambulance Station</data>
+    </node>
+    <node id="RYF65">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Bude Ambulance Station</data>
+    </node>
+    <node id="RYF64">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Camelford Ambulance Station</data>
+    </node>
+    <node id="RYF26">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Cornwall Air Ambulance</data>
+    </node>
+    <node id="RYF58">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Falmouth Ambulance Station</data>
+    </node>
+    <node id="RYF70">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Helston Ambulance Station</data>
+    </node>
+    <node id="RYF63">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Launceston Ambulance Station</data>
+    </node>
+    <node id="RYF66">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Liskeard Ambulance Station</data>
+    </node>
+    <node id="RYF60">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Newquay Ambulance Station</data>
+    </node>
+    <node id="RYF57">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Redruth Ambulance Station</data>
+    </node>
+    <node id="RYF68">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Saltash Ambulance Station</data>
+    </node>
+    <node id="RYF61">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">St Austell Ambulance Station</data>
+    </node>
+    <node id="RYFEW">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Torpoint Ambulance Station</data>
+    </node>
+    <node id="RYF69">
+      <data key="d0">0</data>
+      <data key="d1">station</data>
+      <data key="d2">Wadebridge Ambulance Station</data>
+    </node>
+    <node id="REF02">
+      <data key="d0">1</data>
+      <data key="d1">hospital</data>
+      <data key="d2">St Michael's Teaching Hospital</data>
+    </node>
+    <node id="REF01">
+      <data key="d0">1</data>
+      <data key="d1">hospital</data>
+      <data key="d2">West Cornwall Hospital (Penzance)</data>
+    </node>
+    <node id="REF12">
+      <data key="d0">1</data>
+      <data key="d1">hospital</data>
+      <data key="d2">Royal Cornwall Hospital (Treliske)</data>
+    </node>
+    <edge source="RYF62" target="REF02">
+      <data key="d3">58.100387177075</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018928</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF62" target="REF01">
+      <data key="d3">69.1932306152</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018928</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF62" target="REF12">
+      <data key="d3">42.0060315622</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018928</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF65" target="REF02">
+      <data key="d3">106.8642281555</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018959</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF65" target="REF01">
+      <data key="d3">117.957071593625</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018959</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF65" target="REF12">
+      <data key="d3">89.90320587395833</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018959</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF64" target="REF02">
+      <data key="d3">76.8025021355</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033292</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF64" target="REF01">
+      <data key="d3">87.905345573625</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033292</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF64" target="REF12">
+      <data key="d3">59.72147985395833</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033292</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF26" target="REF02">
+      <data key="d3">44.28996646325</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019050</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF26" target="REF01">
+      <data key="d3">55.382809901375</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019050</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF26" target="REF12">
+      <data key="d3">27.40894418170833</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019050</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF58" target="REF02">
+      <data key="d3">40.958349868</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018859</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF58" target="REF01">
+      <data key="d3">48.531193306125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018859</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF58" target="REF12">
+      <data key="d3">26.433994253125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018859</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF70" target="REF02">
+      <data key="d3">22.271802107125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018886</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF70" target="REF01">
+      <data key="d3">28.89464554525</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018886</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF70" target="REF12">
+      <data key="d3">35.92077982558334</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018886</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF63" target="REF02">
+      <data key="d3">81.17563740513333</data>
+      <data key="d4">True</data>
+      <data key="d5">E01034848</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF63" target="REF01">
+      <data key="d3">92.26848084325832</data>
+      <data key="d4">True</data>
+      <data key="d5">E01034848</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF63" target="REF12">
+      <data key="d3">79.0637710752529</data>
+      <data key="d4">True</data>
+      <data key="d5">E01034848</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF66" target="REF02">
+      <data key="d3">75.063167100625</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018767</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF66" target="REF01">
+      <data key="d3">86.16601053875</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018767</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF66" target="REF12">
+      <data key="d3">59.57881148575</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018767</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF60" target="REF02">
+      <data key="d3">42.94614829375</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019022</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF60" target="REF01">
+      <data key="d3">54.038991731875</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019022</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF60" target="REF12">
+      <data key="d3">26.755126012208333</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019022</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF57" target="REF02">
+      <data key="d3">17.592086427</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018910</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF57" target="REF01">
+      <data key="d3">28.684929865125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018910</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF57" target="REF12">
+      <data key="d3">13.017730812125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018910</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF68" target="REF02">
+      <data key="d3">87.74247356775</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018787</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF68" target="REF01">
+      <data key="d3">98.835317005875</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018787</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF68" target="REF12">
+      <data key="d3">72.28145128620834</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018787</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF61" target="REF02">
+      <data key="d3">61.552409443</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019041</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF61" target="REF01">
+      <data key="d3">72.645252881125</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019041</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF61" target="REF12">
+      <data key="d3">36.50472049479166</data>
+      <data key="d4">True</data>
+      <data key="d5">E01019041</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYFEW" target="REF02">
+      <data key="d3">95.0914224355625</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033294</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYFEW" target="REF01">
+      <data key="d3">106.184265873687</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033294</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYFEW" target="REF12">
+      <data key="d3">79.64040015402084</data>
+      <data key="d4">True</data>
+      <data key="d5">E01033294</data>
+      <data key="d6">E01034862</data>
+    </edge>
+    <edge source="RYF69" target="REF02">
+      <data key="d3">63.2895361605</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018972</data>
+      <data key="d6">E01018983</data>
+    </edge>
+    <edge source="RYF69" target="REF01">
+      <data key="d3">74.382379598625</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018972</data>
+      <data key="d6">E01018995</data>
+    </edge>
+    <edge source="RYF69" target="REF12">
+      <data key="d3">46.60851387895834</data>
+      <data key="d4">True</data>
+      <data key="d5">E01018972</data>
+      <data key="d6">E01034862</data>
+    </edge>
+  </graph>
+</graphml>

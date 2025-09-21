@@ -1,0 +1,43 @@
+station_code,station_name,hospital_code,hospital_name,time_car_min,has_official_time
+RYF26,Cornwall Air Ambulance,REF12,Royal Cornwall Hospital (Treliske),27.40894418170833,True
+RYF26,Cornwall Air Ambulance,REF02,St Michael's Teaching Hospital,44.28996646325,True
+RYF26,Cornwall Air Ambulance,REF01,West Cornwall Hospital (Penzance),55.382809901375,True
+RYF57,Redruth Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),13.017730812125,True
+RYF57,Redruth Ambulance Station,REF02,St Michael's Teaching Hospital,17.592086427,True
+RYF57,Redruth Ambulance Station,REF01,West Cornwall Hospital (Penzance),28.684929865125,True
+RYF58,Falmouth Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),26.433994253125,True
+RYF58,Falmouth Ambulance Station,REF02,St Michael's Teaching Hospital,40.958349868,True
+RYF58,Falmouth Ambulance Station,REF01,West Cornwall Hospital (Penzance),48.531193306125,True
+RYF60,Newquay Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),26.755126012208333,True
+RYF60,Newquay Ambulance Station,REF02,St Michael's Teaching Hospital,42.94614829375,True
+RYF60,Newquay Ambulance Station,REF01,West Cornwall Hospital (Penzance),54.038991731875,True
+RYF61,St Austell Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),36.50472049479166,True
+RYF61,St Austell Ambulance Station,REF02,St Michael's Teaching Hospital,61.552409443,True
+RYF61,St Austell Ambulance Station,REF01,West Cornwall Hospital (Penzance),72.645252881125,True
+RYF62,Bodmin Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),42.0060315622,True
+RYF62,Bodmin Ambulance Station,REF02,St Michael's Teaching Hospital,58.100387177075,True
+RYF62,Bodmin Ambulance Station,REF01,West Cornwall Hospital (Penzance),69.1932306152,True
+RYF63,Launceston Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),79.0637710752529,True
+RYF63,Launceston Ambulance Station,REF02,St Michael's Teaching Hospital,81.17563740513333,True
+RYF63,Launceston Ambulance Station,REF01,West Cornwall Hospital (Penzance),92.26848084325832,True
+RYF64,Camelford Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),59.72147985395833,True
+RYF64,Camelford Ambulance Station,REF02,St Michael's Teaching Hospital,76.8025021355,True
+RYF64,Camelford Ambulance Station,REF01,West Cornwall Hospital (Penzance),87.905345573625,True
+RYF65,Bude Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),89.90320587395833,True
+RYF65,Bude Ambulance Station,REF02,St Michael's Teaching Hospital,106.8642281555,True
+RYF65,Bude Ambulance Station,REF01,West Cornwall Hospital (Penzance),117.957071593625,True
+RYF66,Liskeard Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),59.57881148575,True
+RYF66,Liskeard Ambulance Station,REF02,St Michael's Teaching Hospital,75.063167100625,True
+RYF66,Liskeard Ambulance Station,REF01,West Cornwall Hospital (Penzance),86.16601053875,True
+RYF68,Saltash Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),72.28145128620834,True
+RYF68,Saltash Ambulance Station,REF02,St Michael's Teaching Hospital,87.74247356775,True
+RYF68,Saltash Ambulance Station,REF01,West Cornwall Hospital (Penzance),98.835317005875,True
+RYF69,Wadebridge Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),46.60851387895834,True
+RYF69,Wadebridge Ambulance Station,REF02,St Michael's Teaching Hospital,63.2895361605,True
+RYF69,Wadebridge Ambulance Station,REF01,West Cornwall Hospital (Penzance),74.382379598625,True
+RYF70,Helston Ambulance Station,REF02,St Michael's Teaching Hospital,22.271802107125,True
+RYF70,Helston Ambulance Station,REF01,West Cornwall Hospital (Penzance),28.89464554525,True
+RYF70,Helston Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),35.92077982558334,True
+RYFEW,Torpoint Ambulance Station,REF12,Royal Cornwall Hospital (Treliske),79.64040015402084,True
+RYFEW,Torpoint Ambulance Station,REF02,St Michael's Teaching Hospital,95.0914224355625,True
+RYFEW,Torpoint Ambulance Station,REF01,West Cornwall Hospital (Penzance),106.184265873687,True

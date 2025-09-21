@@ -1,0 +1,28 @@
+{
+  "notebook": "01b_directed_bipartite_graph",
+  "git_sha": "7512ffd",
+  "created_utc": "2025-09-21T17:20:22Z",
+  "crs": {
+    "map_epsg": 27700,
+    "input_epsg": 4326
+  },
+  "config": {
+    "max_minutes": 120,
+    "v_kph": 50.0,
+    "fudge": 1.3,
+    "top_k": 3
+  },
+  "inputs": {
+    "stations_csv": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/data/raw/test_data_ICB_level/ambulance_stations_icb.csv",
+    "hospitals_csv": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/data/raw/test_data_ICB_level/acute_hospitals_icb.csv",
+    "travel_matrix_csv": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/data/raw/test_data_ICB_level/travel_matrix_lsoa_icb.csv",
+    "lsoa_gpkg": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/data/raw/test_data_ICB_level/demographics_age_continuous_icb.gpkg",
+    "lsoa_layer": "LSOA_continuous_age_icb"
+  },
+  "outputs_dir": "/Users/rosstaylor/Downloads/Code Repositories/REACH Map (NHS SW)/GitHub Repo/REACH-Map-NHS-SW/outputs/01b_directed_bipartite_graph/20250921-1818",
+  "counts": {
+    "stations": 14,
+    "hospitals": 3,
+    "edges": 42
+  }
+}
