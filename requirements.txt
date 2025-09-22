@@ -28,6 +28,7 @@ rich>=13.7
 # --- Simulation / OR ---
 simpy>=4.1
 networkx>=3.3
+pulp>=2.8          # required for 02c MILP (MCLP & p-median)
 
 # --- Geospatial core (vector + raster) ---
 geopandas>=0.14
@@ -114,8 +115,8 @@ pmdarima>=2.0
 # geemap>=0.34
 
 # --- Optimization / OR extras ---
-# pulp>=2.8
-# ortools>=9.9
+# ortools>=9.9          # alternative MILP/CP solver suite
+# pyomo>=6.7            # alternative modeling language
 
 # --- Serialization / models ---
 # joblib>=1.4
