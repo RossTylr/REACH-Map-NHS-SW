@@ -1,0 +1,17 @@
+{
+  "node_degrees": {
+    "A": 3,
+    "B": 3,
+    "C": 5,
+    "D": 3
+  },
+  "odd_degree_node_count": 4,
+  "odd_degree_nodes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "has_eulerian_path": false,
+  "explanation": "No path is possible (4 odd-degree nodes found; requires 0 or 2)."
+}
