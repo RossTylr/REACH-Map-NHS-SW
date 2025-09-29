@@ -1,0 +1,8 @@
+bridge_id,u,v,degree_u,degree_v
+1,A,C,3,5
+2,A,C,3,5
+3,A,D,3,3
+4,B,C,3,5
+5,B,C,3,5
+6,B,D,3,3
+7,C,D,5,3

@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d5" for="node" attr.name="closeness_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="betweenness_centrality" attr.type="double" />
+  <key id="d3" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d2" for="node" attr.name="pos" attr.type="string" />
+  <key id="d1" for="node" attr.name="kind" attr.type="string" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="N000">
+      <data key="d0">Clinic-000</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(37.454011884736246, 78.51759613930136)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.050724637681159424</data>
+      <data key="d5">0.013985205732778548</data>
+    </node>
+    <node id="N001">
+      <data key="d0">Clinic-001</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(95.07143064099162, 19.96737821583597)</data>
+      <data key="d3">0.16666666666666666</data>
+      <data key="d4">0.09782608695652174</data>
+      <data key="d5">0.016211146838156484</data>
+    </node>
+    <node id="N002">
+      <data key="d0">Clinic-002</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(73.1993941811405, 51.42344384136116)</data>
+      <data key="d3">0.08333333333333333</data>
+      <data key="d4">0.007246376811594203</data>
+      <data key="d5">0.011536994660564454</data>
+    </node>
+    <node id="N003">
+      <data key="d0">Clinic-003</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(59.86584841970366, 59.24145688620425)</data>
+      <data key="d3">0.16666666666666666</data>
+      <data key="d4">0.11594202898550725</data>
+      <data key="d5">0.016694260485651213</data>
+    </node>
+    <node id="N004">
+      <data key="d0">Clinic-004</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(15.601864044243651, 4.645041271999773)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.08333333333333333</data>
+      <data key="d5">0.00912106135986733</data>
+    </node>
+    <node id="N005">
+      <data key="d0">Warehouse-005</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(15.599452033620263, 60.75448519014384)</data>
+      <data key="d3">0.16666666666666666</data>
+      <data key="d4">0.11594202898550725</data>
+      <data key="d5">0.014571290944123313</data>
+    </node>
+    <node id="N006">
+      <data key="d0">Warehouse-006</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(5.8083612168199465, 17.052412368729154)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.08695652173913043</data>
+      <data key="d5">0.015560699588477365</data>
+    </node>
+    <node id="N007">
+      <data key="d0">Clinic-007</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(86.61761457749351, 6.505159298527952)</data>
+      <data key="d3">0.0</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.0</data>
+    </node>
+    <node id="N008">
+      <data key="d0">Warehouse-008</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(60.11150117432088, 94.88855372533332)</data>
+      <data key="d3">0.08333333333333333</data>
+      <data key="d4">0.025362318840579712</data>
+      <data key="d5">0.012387387387387387</data>
+    </node>
+    <node id="N009">
+      <data key="d0">Clinic-009</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(70.80725777960456, 96.56320330745594)</data>
+      <data key="d3">0.08333333333333333</data>
+      <data key="d4">0.06884057971014493</data>
+      <data key="d5">0.012266828872668287</data>
+    </node>
+    <node id="N010">
+      <data key="d0">Warehouse-010</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(2.0584494295802447, 80.83973481164611)</data>
+      <data key="d3">0.08333333333333333</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.01282051282051282</data>
+    </node>
+    <node id="N011">
+      <data key="d0">Clinic-011</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(96.99098521619943, 30.46137691733707)</data>
+      <data key="d3">0.08333333333333333</data>
+      <data key="d4">0.07246376811594203</data>
+      <data key="d5">0.01015952980688497</data>
+    </node>
+    <node id="N012">
+      <data key="d0">Warehouse-012</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(83.24426408004217, 9.767211400638388)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.018115942028985508</data>
+      <data key="d5">0.011731626914872987</data>
+    </node>
+    <node id="N013">
+      <data key="d0">Hospital-013</data>
+      <data key="d1">Hospital</data>
+      <data key="d2">(21.233911067827616, 68.42330265121569)</data>
+      <data key="d3">0.16666666666666666</data>
+      <data key="d4">0.0036231884057971015</data>
+      <data key="d5">0.014112432936785631</data>
+    </node>
+    <node id="N014">
+      <data key="d0">Clinic-014</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(18.182496720710063, 44.01524937396013)</data>
+      <data key="d3">0.3333333333333333</data>
+      <data key="d4">0.2572463768115942</data>
+      <data key="d5">0.01838347006988757</data>
+    </node>
+    <node id="N015">
+      <data key="d0">Clinic-015</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(18.34045098534338, 12.203823484477883)</data>
+      <data key="d3">0.16666666666666666</data>
+      <data key="d4">0.2318840579710145</data>
+      <data key="d5">0.018250377073906483</data>
+    </node>
+    <node id="N016">
+      <data key="d0">Clinic-016</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(30.42422429595377, 49.51769101112702)</data>
+      <data key="d3">0.20833333333333331</data>
+      <data key="d4">0.18115942028985507</data>
+      <data key="d5">0.015816993464052288</data>
+    </node>
+    <node id="N017">
+      <data key="d0">Hospital-017</data>
+      <data key="d1">Hospital</data>
+      <data key="d2">(52.475643163223786, 3.43885211152184)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.14492753623188406</data>
+      <data key="d5">0.014839342653912192</data>
+    </node>
+    <node id="N018">
+      <data key="d0">Warehouse-018</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(43.19450186421157, 90.9320402078782)</data>
+      <data key="d3">0.0</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.0</data>
+    </node>
+    <node id="N019">
+      <data key="d0">Clinic-019</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(29.122914019804192, 25.87799816000169)</data>
+      <data key="d3">0.20833333333333331</data>
+      <data key="d4">0.07971014492753624</data>
+      <data key="d5">0.012334352701325178</data>
+    </node>
+    <node id="N020">
+      <data key="d0">Warehouse-020</data>
+      <data key="d1">Warehouse</data>
+      <data key="d2">(61.18528947223795, 66.2522284353982)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.014492753623188406</data>
+      <data key="d5">0.010954191562556581</data>
+    </node>
+    <node id="N021">
+      <data key="d0">Hospital-021</data>
+      <data key="d1">Hospital</data>
+      <data key="d2">(13.949386065204184, 31.171107608941096)</data>
+      <data key="d3">0.041666666666666664</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.01648950667756882</data>
+    </node>
+    <node id="N022">
+      <data key="d0">Clinic-022</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(29.21446485352181, 52.00680211778108)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.0036231884057971015</data>
+      <data key="d5">0.011550210003818251</data>
+    </node>
+    <node id="N023">
+      <data key="d0">Clinic-023</data>
+      <data key="d1">Clinic</data>
+      <data key="d2">(36.63618432936917, 54.67102793432797)</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.010118748954674694</data>
+    </node>
+    <node id="N024">
+      <data key="d0">Hospital-024</data>
+      <data key="d1">Hospital</data>
+      <data key="d2">(45.6069984217036, 18.485445552552704)</data>
+      <data key="d3">0.041666666666666664</data>
+      <data key="d4">0.0</data>
+      <data key="d5">0.00595413837220746</data>
+    </node>
+    <edge source="N000" target="N005">
+      <data key="d6">8</data>
+    </edge>
+    <edge source="N000" target="N003">
+      <data key="d6">26</data>
+    </edge>
+    <edge source="N000" target="N013">
+      <data key="d6">39</data>
+    </edge>
+    <edge source="N001" target="N017">
+      <data key="d6">28</data>
+    </edge>
+    <edge source="N001" target="N003">
+      <data key="d6">12</data>
+    </edge>
+    <edge source="N001" target="N013">
+      <data key="d6">13</data>
+    </edge>
+    <edge source="N001" target="N014">
+      <data key="d6">23</data>
+    </edge>
+    <edge source="N002" target="N008">
+      <data key="d6">23</data>
+    </edge>
+    <edge source="N002" target="N003">
+      <data key="d6">39</data>
+    </edge>
+    <edge source="N003" target="N015">
+      <data key="d6">15</data>
+    </edge>
+    <edge source="N004" target="N011">
+      <data key="d6">28</data>
+    </edge>
+    <edge source="N004" target="N009">
+      <data key="d6">47</data>
+    </edge>
+    <edge source="N004" target="N024">
+      <data key="d6">56</data>
+    </edge>
+    <edge source="N005" target="N014">
+      <data key="d6">27</data>
+    </edge>
+    <edge source="N005" target="N019">
+      <data key="d6">47</data>
+    </edge>
+    <edge source="N005" target="N010">
+      <data key="d6">9</data>
+    </edge>
+    <edge source="N006" target="N020">
+      <data key="d6">46</data>
+    </edge>
+    <edge source="N006" target="N022">
+      <data key="d6">31</data>
+    </edge>
+    <edge source="N006" target="N015">
+      <data key="d6">12</data>
+    </edge>
+    <edge source="N008" target="N016">
+      <data key="d6">19</data>
+    </edge>
+    <edge source="N009" target="N017">
+      <data key="d6">19</data>
+    </edge>
+    <edge source="N010" target="N014">
+      <data key="d6">47</data>
+    </edge>
+    <edge source="N011" target="N014">
+      <data key="d6">56</data>
+    </edge>
+    <edge source="N012" target="N023">
+      <data key="d6">57</data>
+    </edge>
+    <edge source="N012" target="N014">
+      <data key="d6">46</data>
+    </edge>
+    <edge source="N012" target="N019">
+      <data key="d6">20</data>
+    </edge>
+    <edge source="N013" target="N022">
+      <data key="d6">54</data>
+    </edge>
+    <edge source="N013" target="N014">
+      <data key="d6">36</data>
+    </edge>
+    <edge source="N014" target="N021">
+      <data key="d6">6</data>
+    </edge>
+    <edge source="N014" target="N015">
+      <data key="d6">8</data>
+    </edge>
+    <edge source="N015" target="N016">
+      <data key="d6">32</data>
+    </edge>
+    <edge source="N016" target="N023">
+      <data key="d6">52</data>
+    </edge>
+    <edge source="N016" target="N019">
+      <data key="d6">49</data>
+    </edge>
+    <edge source="N016" target="N017">
+      <data key="d6">16</data>
+    </edge>
+    <edge source="N019" target="N023">
+      <data key="d6">31</data>
+    </edge>
+    <edge source="N019" target="N020">
+      <data key="d6">27</data>
+    </edge>
+    <edge source="N020" target="N022">
+      <data key="d6">26</data>
+    </edge>
+  </graph>
+</graphml>
