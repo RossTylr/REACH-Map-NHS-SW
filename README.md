@@ -1,18 +1,24 @@
 <!-- Place logo files at docs/assets/nhs-logo.png and docs/assets/reach-logo.svg -->
 <p align="center">
-  <img src="docs/assets/nhs-logo.png" alt="NHS Logo" height="64">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/assets/reach-logo.png" alt="REACH Map Logo" height="64">
+<img src="docs/assets/nhs-logo.png" alt="NHS Logo" height="64">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="docs/assets/reach-logo.png" alt="REACH Map Logo" height="64">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python 3.11">
-  <img src="https://img.shields.io/badge/GeoPandas-0.14-green" alt="GeoPandas 0.14">
+<a href="https://streamlit.io" target="_blank">
+<img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B.svg" alt="Built with Streamlit">
+</a>
+<img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python 3.11">
+<img src="https://img.shields.io/badge/GeoPandas-0.14-green" alt="GeoPandas 0.14">
+<a href="https://github.com/RossTylr/REACH-Map-NHS-SW/blob/main/LICENSE" target="_blank">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+</a>
 </p>
 
-# REACH Map (SW): Response & Emergency Access Coverage
+# REACH Map (SW): Response and Emergency Access Coverage
 
-A Streamlit tool for NHS planners to visualise emergency response coverage, test what-if scenarios, and balance demand vs. capacity across the NHS South West.
+A planning tool for NHS planners to visualise emergency response coverage, test what-if scenarios, and balance demand vs. capacity across the NHS South West.
 
 ---
 
@@ -107,15 +113,33 @@ This is an application, so results are scenario-dependent. The app computes and 
 
 ## Install & Quickstart
 ```bash
-# 1) Create environment
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
+# 1) Clone the repository
+git clone https://github.com/RossTylr/REACH-Map-NHS-SW.git
+cd REACH-Map-NHS-SW
 
-# 2) Upgrade pip and install deps
-python -m pip install --upgrade pip
+# 2) Create and activate the Conda environment
+# This will create an environment named 'reach' with Python 3.11.
+conda create --name reach python=3.11 -y
+conda activate reach
+
+# 3) Install required dependencies
+# Using pip is recommended to ensure specific versions from the file.
 pip install -r requirements.txt
 
-# 3) Prepare config (see next section), then run
+# 4) Prepare your configuration
+# Create a config file from the template.
+# (On Windows, you may need to use 'copy' instead of 'cp')
+cp config.example.yml config.yml
+# Now, edit config.yml to add paths to your local data files.
+
+# 5) Launch the tool
+# There are two ways to run the project depending on your needs.
+
+# To run the interactive Streamlit application:
 streamlit run app.py
+
+# --- OR ---
+
+# To launch JupyterLab for notebook-based analysis and development:
+# (First, ensure jupyterlab is installed: pip install jupyterlab)
+jupyter lab
